@@ -67,3 +67,14 @@ body {
     transition-delay: .3s;
     transition: all .3s ease;
 }
+
+
+.description p {
+    color: #b0b0ba;
+    padding-top: 5px;
+}
+
+.description h4 {
+    text-transform: uppercase;
+}
+
